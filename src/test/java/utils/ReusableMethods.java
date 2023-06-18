@@ -1,4 +1,4 @@
-package utilities;
+package utils;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.TakesScreenshot;

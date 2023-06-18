@@ -1,4 +1,4 @@
-package utilities;
+package utils;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 public class JSUtils {
